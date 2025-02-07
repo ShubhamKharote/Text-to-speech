@@ -1,0 +1,13 @@
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\bin\Debug\Texttospeech.exe.config
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\bin\Debug\Texttospeech.exe
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\bin\Debug\Texttospeech.pdb
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csproj.AssemblyReference.cache
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Form1.resources
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Form2.resources
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Properties.Resources.resources
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csproj.GenerateResource.cache
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.exe
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.pdb
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Form3.resources
+C:\Users\Shubham Kharote\source\repos\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Form4.resources
